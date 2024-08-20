@@ -1,5 +1,4 @@
 name: Sync Garmin CN to Garmin Global
-
 on:
   workflow_dispatch:
   schedule:
